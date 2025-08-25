@@ -22,3 +22,13 @@ for (let i = 1; i < marks.length; i++) {
 
 console.log("Highest Marks:", highest);
 console.log("Lowest Marks:", lowest);
+
+
+/*
+Output:
+Student: Anshul Patel
+Total Marks: 421
+Average Marks: 84.20
+Highest Marks: 99
+Lowest Marks: 67
+*/
